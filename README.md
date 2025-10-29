@@ -189,7 +189,7 @@ print(me.life_motto())
 
 **Tech:** Solidity · React · Web3.js · Hardhat
 
-```javascript
+```JavaScript
 const features = [
   "🔐 Secure Smart Contracts",
   "🗳️ Transparent Voting",
@@ -323,7 +323,7 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░    
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishSeran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/seran-vishwa-46b4aa212)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VishSeran)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@VishSeran)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/VishSeran)
