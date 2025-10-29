@@ -238,7 +238,7 @@ interface IExchange {
 
 **Tech:** Node.js · React · MongoDB · Socket.io
 
-```javascript
+```JavaScript
 features = {
   realTime: ["Messages", "Posts"],
   auth: "JWT & OAuth2",
