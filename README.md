@@ -177,6 +177,27 @@ print(me.life_motto())
 
 </div>
 
+<div align="center">
+
+<!-- TROPHY SHOWCASE -->
+<table>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+      
+### 🏆 Developer Rankings
+**🇱🇰 Featured on [Committers.top Sri Lanka Rankings]((https://user-badge.committers.top/sri_lanka/VishSeran))**
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/VishSeran.svg)](https://user-badge.committers.top/sri_lanka/VishSeran)
+<a href="https://user-badge.committers.top/sri_lanka/VishSeran">
+
+*Proudly representing Sri Lankan tech community* 🌟
+
+</td>
+  </tr>
+</table>
+
+</div>
+
 ## 🎯 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> FEATURED PROJECTS
 
 <div align="center">
