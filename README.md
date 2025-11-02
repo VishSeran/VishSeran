@@ -295,6 +295,12 @@ HTML/CSS     ██░░░░░░░░░░░░░░░░░░░    
 ```
 <!--END_SECTION:waka-->
 
+### 🕒 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VishSeran&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&custom_title=Weekly%20Coding%20Stats" />
 
 </div>
