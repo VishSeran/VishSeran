@@ -118,49 +118,34 @@ print(me.life_motto())
 
 </div>
 
-## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-<table>
-<tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=VishSeran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats"/>
-  
-</td>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishSeran&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="GitHub Streak"/>
-  
-</td>
-</tr>
 
-<tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
-  
-</td>
-<td width="50%" align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VishSeran&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VishSeran&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B">
+  <img src="https://streak-stats.demolab.com?user=VishSeran&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak">
+</picture>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Contribution%20Activity%20Graph&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<br />
+
+[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=VishSeran&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide_border=true&count_private=true)](https://github.com/DulshanSiriwardhana)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook" height="180" />
+</picture>
 
 </div>
 
 <div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Dulshan's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Dulshan's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
+</picture>
 </div>
+
+---
 
 ## 🏆 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> ACHIEVEMENTS & TROPHIES
 
