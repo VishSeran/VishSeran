@@ -175,7 +175,7 @@ print(me.life_motto())
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/VishSeran.svg)](https://user-badge.committers.top/sri_lanka/VishSeran)
 <a href="https://user-badge.committers.top/sri_lanka/VishSeran">
 
-*Proudly representing Sri Lankan tech community* 🌟
+*Proudly representing the Sri Lankan tech community* 🌟
 
 </td>
   </tr>
