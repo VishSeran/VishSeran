@@ -140,8 +140,8 @@ print(me.life_motto())
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Dulshan's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Dulshan's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Vishwa's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishSeran&custom_title=Vishwa's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
 </picture>
 </div>
 
