@@ -129,7 +129,7 @@ print(me.life_motto())
 
 <br />
 
-[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=VishSeran&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide_border=true&count_private=true)](https://github.com/DulshanSiriwardhana)
+[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=VishSeran&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide_border=true&count_private=true)](https://github.com/VishSeran)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook">
