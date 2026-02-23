@@ -38,7 +38,7 @@ class VishSeran:
         self.location = "Sri Lanka 🇱🇰"
         self.role = "Computer Engineering Student"
         self.university = "University of Ruhuna"
-        self.year = "4th Year"
+        self.year = "Graduate"
         
     @property
     def tech_stack(self):
@@ -46,7 +46,7 @@ class VishSeran:
             'blockchain': ['Solidity', 'Web3.js', 'Ethers.js', 'Hardhat'],
             'cloud': ['AWS', 'Docker', 'Kubernetes', 'Jenkins'],
             'frontend': ['React', 'Next.js', 'HTML5', 'CSS3', 'Bootstrap'],
-            'backend': ['Node.js', 'Python', 'C#', 'MongoDB'],
+            'backend': ['Node.js', 'Python', 'Java', 'MongoDB'],
             'tools': ['Git', 'VS Code', 'Remix IDE']
         }
     
@@ -93,7 +93,7 @@ print(me.life_motto())
 ### 🔧 Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
