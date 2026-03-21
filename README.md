@@ -267,43 +267,16 @@ features = {
 
 ## 📈 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> CODING ACTIVITY
 
-<!--START_SECTION:waka-->
 <div align="center">
 
-### 💻 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<div >
+  💻🕒  ### Weekly Development Breakdown
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg?style=for-the-badge&color=0A66C2&label_color=000000)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
+  [![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg?style=for-the-badge&color=0A66C2&label_color=000000)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
 
 </div>
-```text
-From: Monday to Sunday
-
-Total Time: 40 hrs 20 mins   ████████████████████░░░   100%
-
-💬 Languages:
-Solidity                 12 hrs 30 mins  ███████████░░░░░░░░░░░   31.02%
-JavaScript               8 hrs 45 mins   ████████░░░░░░░░░░░░░░   21.70%
-Python                   6 hrs 10 mins   ██████░░░░░░░░░░░░░░░░   15.29%
-TypeScript               5 hrs 20 mins   █████░░░░░░░░░░░░░░░░░   13.22%
-YAML                     3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░    8.06%
-Other                    4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░   10.71%
-
-🔧 Editors:
-VS Code                  38 hrs 10 mins  ████████████████████░░   94.67%
-Vim                       2 hrs 10 mins  ██░░░░░░░░░░░░░░░░░░░░    5.33%
-
-📂 Projects:
-blockchain-voting        14 hrs 20 mins  ██████████████░░░░░░░░   35.52%
-defi-exchange            12 hrs 10 mins  ████████████░░░░░░░░░░   30.16%
-cloud-microservices       8 hrs 30 mins  ████████░░░░░░░░░░░░░░   21.09%
-social-app                5 hrs 20 mins  █████░░░░░░░░░░░░░░░░░   13.23%
-
-💻 Operating Systems:
-Linux                    28 hrs 15 mins  ████████████████████░░   70.07%
-Windows                  12 hrs  5 mins  ████████░░░░░░░░░░░░░░   29.93%
-```
-
-<!--END_SECTION:waka-->
 
 <div align="center">
 
@@ -428,4 +401,4 @@ Windows                  12 hrs  5 mins  ████████░░░░░
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-</div>
+</div> 
