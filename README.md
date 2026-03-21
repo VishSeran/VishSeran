@@ -270,14 +270,10 @@ features = {
 <div align="center">
 
 <!--START_SECTION:waka-->
-```text
-💻 This Week I Spent Time On:
 
-JavaScript   █████████████░░░░░░░░   55.2%  🔥
-Python       █████░░░░░░░░░░░░░░░░   23.1%  ⚡
-Solidity     ████░░░░░░░░░░░░░░░░░   14.7%  ⛓️
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░    7.0%  🎨
-```
+💻 This Week I Spent Time On:
+[![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
+
 <!--END_SECTION:waka-->
 
 ### 🕒 Weekly Development Breakdown
