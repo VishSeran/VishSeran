@@ -271,18 +271,10 @@ features = {
 
 <!--START_SECTION:waka-->
 
-💻 This Week I Spent Time On:
-[![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
+💻 ### 🕒 Weekly Development Breakdown
+[![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg?style=for-the-badge&color=0A66C2&label_color=000000)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
 
 <!--END_SECTION:waka-->
-
-### 🕒 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VishSeran&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&custom_title=Weekly%20Coding%20Stats" />
 
 </div>
 
