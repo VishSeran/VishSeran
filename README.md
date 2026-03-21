@@ -270,9 +270,15 @@ features = {
 <div align="center">
 
 <!--START_SECTION:waka-->
+<div >
+  💻🕒  ### Weekly Development Breakdown
+</div>
 
-💻 ### 🕒 Weekly Development Breakdown
-[![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg?style=for-the-badge&color=0A66C2&label_color=000000)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
+<div>
+  [![wakatime](https://wakatime.com/badge/user/5e4044df-1082-4865-b343-1f4cff3e233f.svg?style=for-the-badge&color=0A66C2&label_color=000000)](https://wakatime.com/@5e4044df-1082-4865-b343-1f4cff3e233f)
+
+</div>
+
 
 <!--END_SECTION:waka-->
 
