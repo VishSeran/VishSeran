@@ -268,6 +268,15 @@ features = {
 ## 📈 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> CODING ACTIVITY
 
 <div align="center">
+  
+### ⏱️ Coding Activity Timeline
+![WakaTime Stats](https://wakatime.com/share/@VishSeran/6453677f-200e-47fd-97c1-58360d4d2027.svg)
+
+### 📅 Daily Coding Heatmap
+![WakaTime Stats](https://wakatime.com/share/@VishSeran/6591cbd7-5958-42da-9929-a6e7e5b869f4.svg)
+
+### 💻 Language Usage Breakdown
+![WakaTime Stats](https://wakatime.com/share/@VishSeran/ab844d09-06ea-4f22-9a13-79d357a56d28.svg)
 
 <!--START_SECTION:waka-->
 
