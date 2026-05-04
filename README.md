@@ -5,7 +5,7 @@
 
 <!-- Glitch Text Animation -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=800&height=70&lines=Welcome+to+My+Digital+Realm+%F0%9F%8C%8C;Blockchain+Architect+%E2%9B%93%EF%B8%8F;Cloud+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Wizard+%F0%9F%AA%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=800&height=70&lines=Welcome+to+My+Digital+Realm+%F0%9F%8C%8C;AI/ML+Engineer+%E2%9B%93%EF%B8%8F;Cloud+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Wizard+%F0%9F%AA%84" alt="Typing SVG" />
 </h1>
 
 <!-- Matrix Rain Effect -->
