@@ -1,17 +1,21 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=VISH%20SERAN&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Vishwa%20👋&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20•%20Cloud%20•%20Blockchain%20Engineer&descAlignY=58&descSize=18"/>
 
-<!-- Glitch Text Animation -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=800&height=70&lines=Welcome+to+My+Digital+Realm+%F0%9F%8C%8C;AI/ML+Engineer+%E2%9B%93%EF%B8%8F;Cloud+Engineer+%E2%98%81%EF%B8%8F;Full-Stack+Wizard+%F0%9F%AA%84" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+multi-agent+systems;Designing+RAG+%26+MCP+pipelines;Always+shipping+something+new" />
 
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
+
 <br/>
+
+<a href="https://www.linkedin.com/in/seran-vishwa-46b4aa212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/VishSeran"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+<a href="https://medium.com/@VishSeran"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"></a>
+<a href="https://dev.to/VishSeran"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"></a>
+<a href="mailto:VishSeran@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://vishseran.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"></a>
 
 <!-- Animated Badges -->
 <img src="https://img.shields.io/badge/Status-Building_the_Future-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
@@ -20,121 +24,57 @@
 
 </div>
 
----
+<br/>
 
-<div align="center">
+## 👤 About Me
 
-<!-- Cyber Profile Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-## 🎮 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> SYSTEM.INITIALIZE()
-
-```python
-class VishSeran:
-    def __init__(self):
-        self.username = "VishSeran"
-        self.location = "Sri Lanka 🇱🇰"
-        self.role = "Computer Engineering Student"
-        self.university = "University of Ruhuna"
-        self.year = "Graduate"
-        
-    @property
-    def tech_stack(self):
-        return {
-            'blockchain': ['Solidity', 'Web3.js', 'Ethers.js', 'Hardhat'],
-            'cloud': ['AWS', 'Docker', 'Kubernetes', 'Jenkins'],
-            'frontend': ['React', 'Next.js', 'HTML5', 'CSS3', 'Bootstrap'],
-            'backend': ['Node.js', 'Python', 'Java', 'MongoDB'],
-            'tools': ['Git', 'VS Code', 'Remix IDE']
-        }
-    
-    def current_mission(self):
-        return [
-            "🚀 Building decentralized applications",
-            "☁️ Architecting cloud-native solutions",
-            "🔐 Securing smart contracts",
-            "🌐 Contributing to open source"
-        ]
-    
-    def life_motto(self):
-        return "Code is poetry; blockchain is revolution 🔥"
-
-me = VishSeran()
-print(me.life_motto())
+```yaml
+name:      Vish Seran (Seran Vishwa)
+location:  Sri Lanka 🇱🇰
+title:     AI Engineer
+role:      Computer Engineering Student
+school:    University of Ruhuna
+status:    Graduate
+focus:     Multi-Agent Systems · RAG · LLM Applications
+motto:     "Teaching machines to think, one agent at a time 🤖"
 ```
 
-<div align="center">
+- 🤖 Building multi-agent systems with LangGraph & CrewAI
+- 📚 Designing RAG pipelines for document & multimodal Q&A
+- 🔌 Building MCP servers/clients to connect agents with tools
+- 🌱 Contributing to open source AI projects
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/>
 
-</div>
+## 🧰 Tech Arsenal
+<table width="100%"> <tr> <td valign="top" width="50%">
 
-## ⚡ <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> TECH ARSENAL
+🤖 AI / Agent Frameworks <br/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"> <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/MCP-6B4FBB?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 
-<div align="center">
+🔍 RAG & Retrieval <br/> <img src="https://img.shields.io/badge/FAISS-00A2E8?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Vector%20Search-4B0082?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white">
 
-### 💎 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black)
+</td> <td valign="top" width="50%">
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🐍 Core & Backend <br/> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white">
 
-### 🔧 Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+☁️ Cloud & Tools <br/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+</td> </tr> </table> <br/>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VishSeran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+<br/>
 
-## 📊 GitHub Analytics
+<img src="https://streak-stats.demolab.com?user=VishSeran&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VishSeran&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B">
-  <img src="https://streak-stats.demolab.com?user=VishSeran&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak">
-</picture>
-
-<br />
-
-[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=VishSeran&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide_border=true&count_private=true)](https://github.com/VishSeran)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishSeran&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook" height="180" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=VishSeran&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" width="100%"/>
 
 </div>
 
@@ -145,15 +85,8 @@ print(me.life_motto())
 </picture>
 </div>
 
----
 
-## 🏆 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> ACHIEVEMENTS & TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishSeran&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
+<br/>
 
 <div align="center">
 
@@ -179,81 +112,6 @@ print(me.life_motto())
 
 </td>
   </tr>
-</table>
-
-</div>
-
-## 🎯 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> FEATURED PROJECTS
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="20"/> Blockchain Voting DApp
-
-**Tech:** Solidity · React · Web3.js · Hardhat
-
-```JavaScript
-const features = [
-  "🔐 Secure Smart Contracts",
-  "🗳️ Transparent Voting",
-  "⚡ Real-time Results",
-  "🔒 Encrypted Data"
-];
-```
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="20"/> Cloud Microservices
-
-**Tech:** AWS · Docker · Kubernetes · CI/CD
-
-```yaml
-services:
-  - API Gateway
-  - Lambda Functions
-  - RDS & DynamoDB
-  - Auto Scaling
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20"/> DeFi Exchange Platform
-
-**Tech:** Next.js · Ethers.js · Smart Contracts
-
-```solidity
-interface IExchange {
-    function swap(token, amount);
-    function addLiquidity(token);
-    function removeLiquidity();
-}
-```
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="20"/> Social Media Platform
-
-**Tech:** Node.js · React · MongoDB · Socket.io
-
-```JavaScript
-features = {
-  realTime: ["Messages", "Posts"],
-  auth: "JWT & OAuth2",
-  media: "Cloudinary"
-};
-```
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -287,127 +145,91 @@ features = {
 
 </div>
 
+
+## 🎯 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ [Multi-Agent Restaurant Recommendation System](https://github.com/VishSeran/multi-agent-restaurant-recommendation-system)
+**Tech:** Python · LangChain · LangGraph · FAISS · MCP
+- Multimodal RAG pipeline
+- Multi-agent architecture for recommendations
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [Grocery Planner Multi-Agent System](https://github.com/VishSeran/grocery-planner-multi-agent-system-crewai)
+**Tech:** Python · CrewAI
+- Turns a meal request into a full shopping plan
+- Recipe research + budget-conscious lists
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ [CrewAI Research & Writer Crew](https://github.com/VishSeran/crewai-research-writer-crew)
+**Tech:** Python · CrewAI
+- Research Analyst agent for real-time web search
+- Content Strategist agent for polished writing
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 [Advanced MCP App](https://github.com/VishSeran/advanced-mcp-app)
+**Tech:** Python · FastMCP · Streamable HTTP
+- Filesystem roots security + sampling concepts
+- Reusable base HTTP client
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [DocChat — Multi-Agent RAG System](https://github.com/VishSeran/docchat-multi-agent-rag-system)
+**Tech:** Python · Hybrid Retrieval
+- Q&A over long PDFs/DOCX with tables & figures
+- Hallucination-resistant, verified answers
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Data Visualization Agent](https://github.com/VishSeran/data-visualization-agent)
+**Tech:** Python · LangChain · Pandas DataFrame Agent
+- Talk to your CSV data in plain English
+- Instant answers & on-the-fly charts
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+*More AI agent experiments, MCP servers/clients, and LangGraph explorations on my [GitHub profile](https://github.com/VishSeran?tab=repositories) →*
 
 </div>
 
-## 🔥 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> LATEST ACTIVITY
+<br/>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com) in VishSeran/blockchain-voting
-2. 💪 Opened PR [#15](https://github.com) in VishSeran/defi-exchange
-3. 🗣 Commented on [#8](https://github.com) in VishSeran/cloud-microservices
-4. ⭐ Starred [hardhat-deploy](https://github.com/wighawag/hardhat-deploy)
-5. 🎯 Closed issue [#23](https://github.com) in VishSeran/social-app
-<!--END_SECTION:activity-->
+## 💖 Support My Work
 
 <div align="center">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<a href="https://buymeacoffee.com/VishSeran"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+<a href="https://github.com/sponsors/VishSeran"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA"></a>
+<a href="https://paypal.me/VishSeran"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
 </div>
 
-## 🎵 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" /> SPOTIFY VIBES
+<br/>
 
 <div align="center">
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/vishseran)
+![Profile Views](https://komarev.com/ghpvc/?username=VishSeran&style=flat-square&color=38BDF8&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/VishSeran?style=flat-square&color=38BDF8&logo=github)
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-## 🌐 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> CONNECT WITH ME
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seran-vishwa-46b4aa212)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VishSeran)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@VishSeran)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/VishSeran)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VishSeran@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vishseran.dev)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
-
-</div>
-
-<div align="center">
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-## 💖 <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="30" /> SUPPORT MY WORK
-
-<div align="center">
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/VishSeran)
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/VishSeran)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/VishSeran)
-
-<img src="https://user-images.githubusercontent.com/74038190/216112986-4e22e679-31b0-4650-a56c-9148c20cc03b.gif" width="200">
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 VISITOR STATS
-
-![Profile Views](https://komarev.com/ghpvc/?username=VishSeran&style=for-the-badge&color=00ffff&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/VishSeran?style=for-the-badge&color=00ffff&labelColor=000000&logo=github)
-![Stars](https://img.shields.io/github/stars/VishSeran?style=for-the-badge&color=00ffff&labelColor=000000&logo=github)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25" /> DEV QUOTE OF THE DAY
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishSeran/VishSeran/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishSeran/VishSeran/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VishSeran/VishSeran/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,11,2&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" /> *"Code. Build. Deploy. Repeat."* <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-[![Made with 💙](https://img.shields.io/badge/Made%20with-%F0%9F%92%99-blue?style=for-the-badge)](https://github.com/VishSeran)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div> 
