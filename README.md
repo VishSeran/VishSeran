@@ -32,8 +32,8 @@
 name:      Vish Seran (Seran Vishwa)
 location:  Sri Lanka 🇱🇰
 title:     AI Engineer
-role:      Computer Engineering Student
-school:    University of Ruhuna
+Special:   Computer Engineering 
+uni:       University of Ruhuna
 status:    Graduate
 focus:     Multi-Agent Systems · RAG · LLM Applications
 motto:     "Teaching machines to think, one agent at a time 🤖"
